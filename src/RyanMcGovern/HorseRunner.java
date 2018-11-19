@@ -1,6 +1,7 @@
 package RyanMcGovern;
 
-public class HorseRunner {
+public class HorseRunner
+{
     public static void main(String[] args)
     {
         Horse horse1 = new Mustang("Secretariat", 12000);
